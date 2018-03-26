@@ -1,0 +1,2 @@
+# Allow user adjustments of backlight directly
+SUBSYSTEM=="backlight",RUN+="/bin/chmod 666 /sys/class/backlight/%k/brightness /sys/class/backlight/%k/bl_power"

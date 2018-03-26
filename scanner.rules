@@ -1,0 +1,3 @@
+# Brother printer/scanner combo HL-2380DW scanner permissions for XSane
+ATTR{idVendor}=="04f9", ATTR{idProduct}=="0330", GROUP="scanner"
+

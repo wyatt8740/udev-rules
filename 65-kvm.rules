@@ -1,0 +1,2 @@
+# QEMU kvm module
+KERNEL=="kvm", NAME="%k", GROUP="kvm", MODE="0660"

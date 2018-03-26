@@ -1,0 +1,2 @@
+# cdemu kernel module rules
+KERNEL=="vhba_ctl", MODE="0660", OWNER="root", GROUP="cdrom"
