@@ -1,4 +1,6 @@
-# Nintendo branded Wii U Gamecube controller to USB adapter.
+# Rule for the Nintendo branded Wii U Gamecube controller to USB adapter.
+# Made for use with https://github.com/ToadKing/wii-u-gc-adapter.git .
+
 
 # Make sure you have the "uinput" module loaded in your kernel and have a group
 # named "uinput" on your system. I manually created one for mine. Also, make
